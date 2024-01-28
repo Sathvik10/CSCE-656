@@ -3,7 +3,7 @@
 import React from 'react';
 import '../styling/Navbar.css'; // Import a separate CSS file for styling
 
-const baseUrl = "/csce656"
+const baseUrl = "/CSCE-656"
 function Navbar() {
   return (
     <nav className="navbar flex justify-center bg-neutral-900/50 p-4 backdrop-blur gap-x-8">
