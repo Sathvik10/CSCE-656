@@ -15,9 +15,6 @@ function Navbar() {
           <a href={baseUrl + '/#about'}>About</a>
         </li>
         <li className="nav-item">
-          <a href={baseUrl + '/#resume'}>Resume</a>
-        </li>
-        <li className="nav-item">
           <a href={baseUrl + '/#HW1'}>HW1</a>
         </li>
       </ul>
