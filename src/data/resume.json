@@ -1,0 +1,124 @@
+{
+    "Education" : [
+        {
+            "Name" : "Texas A&M University",
+            "City" : "College Station",
+            "Country" : "United States",
+            "Position" : "Master of Science in Computer Science",
+            "start-date" : "Aug-2023",
+            "end-date" : "Present",
+            "description": "Courses: [ Machine Learning, Information Storgae And Retrival, Computers and New Media, Algorithms, Operating Systems ]",
+            "SubName" : ""
+        },
+        {
+            "Name" : "RV College of Engineering",
+            "City" : "Bangalore",
+            "Country" : "India",
+            "Position" : "Bachelor of Engineering in Computer Science",
+            "start-date" : "Aug-2017",
+            "end-date" : "Jun-2021",
+            "description": "Courses: [ Linear Algebra, Fuzzy Logic, Distributes Systems, Big Data Analytics, Graph and Probability theory ]",
+            "SubName" : ""
+        }
+    ],
+    "Work" : [
+        {
+            "Name" : "Walmart Global Tech",
+            "City" : "Bangalore",
+            "Country" : "India",
+            "Position" : "Software Developer II",
+            "start-date" : "July-2021",
+            "end-date" : "July-2023",
+            "description": "- I was a Software Development Engineer II at Walmart, within the supply chain operations of Sam's Club. My primary focus was on Post-Fulfilment (Financials), and I played a key role in a modernization initiative that involved building a new Order Management System based on microservices architecture.\n - In this initiative, I led the modernization efforts for the invoicing service, catering to 69 million Sam's Club customers across the United States. The new system achieved a processing speed of 10,000 records per minute, significantly reducing accounting discrepancies from $44 million to $8 million. \n - Over the span of two years, I contributed to various projects, including Healer Service, Distributed ID Generator, and State Machine for Order Orchestration. In addition to my technical involvement in multiple projects, I mentored four colleagues and received a Bravo Award for exceptional time management and collaboration skills in a fast-paced environment.",
+            "SubName" : "Supply Chain Management"
+        },
+        {
+            "Name" : "Walmart Global Tech",
+            "City" : "Bangalore",
+            "Country" : "India",
+            "Position" : "Software Developer Intern",
+            "start-date" : "Jan-2021",
+            "end-date" : "June-2023",
+            "description": "- Led analysis on order rates and packaging’s impact on curbside orders, identifying insights for customer satisfaction.\n - Established a metric for optimizing order fulfillment by initiating calculations on Perfect Order Index.",
+            "SubName" : "Supply Chain Management"
+        },
+        {
+            "Name" : "Microsoft",
+            "City" : "Hyderbad",
+            "Country" : "India",
+            "Position" : "Software Developer Intern",
+            "start-date" : "May-2020",
+            "end-date" : "July-2020",
+            "description": "- Enhanced data management and user accessibility by providing RBAC to Industrial Data Workbench.\n - Empowered customers to view, manage and define data models and pipelines at one place.",
+            "SubName" : "Azure Cloud"
+        }
+    ],
+    "Skills" : [
+        {
+            "type" : "Programming Languages",
+            "skill" : [
+                {
+                    "name" : "Java",
+                    "proficiency" : "9"
+                },
+                {
+                    "name" : "C++",
+                    "proficiency" : "8"
+                },
+                {
+                    "name" : "Python",
+                    "proficiency" : "7"
+                }
+            ]
+        },
+        {
+            "type" : "Technologies",
+            "skill" : [
+                {
+                    "name" : "Spring Boot",
+                    "proficiency" : "9"
+                },
+                {
+                    "name" : "Oracle / Azure Cosmos",
+                    "proficiency" : "7"
+                },
+                {
+                    "name" : "Kubernetes",
+                    "proficiency" : "6"
+                }
+            ]
+        }
+    ],
+    "Projects" : [
+        {
+            "name" : "List of Media",
+            "description" : "Here is my list of media I use.<br/><br/> <ol><li>I use <b>YouTube Shorts</b> a lot. I have ensured the algorithm gives content based on my interests. I spend quite some time on this platform</li><li>My go-to movie and TV show platform is <b>Netflix</b>. Although there haven't been any good movies in recent times, I tend to rewatch some of my favorite movies and TV shows in my free time. </li><li><b>Instagram</b> is the last one on my list. It's the only social media app I frequently use.</li></ol>",
+            "code" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Types of Media",
+            "description" : "<ol><li><b>Print Media</b> refers to printed materials like books and magazines.</li><li><b>Broadcast Media</b> includes information transmitted through mass communication channels like telivision, radio.</li><li><b>Digital Media</b> is the content distributed online.</li><li><b>Visual Media</b> consists of movies, documentaries, photography, and graphics.</li></ol><br/><br/> There are multiple ways you can classify the media: based on the medium, based on the end user, based on the content, and a lot more. In the next slide, we will look further into visual media, especially movies.",
+            "code" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Visual Media",
+            "description" : "Visual media can be broadly classified into images, videos and interactive media. <b>Images</b> can be further classified into photographs, digital art, infographics, posters, etc. The content delivered to user is static. The dynamic visual content is a part of <b>videos</b>. They vary from educational to entertainment, from recorded to live. <b>Interative media</b> includes VR/AR where there is a constant interaction between user and the medium. We will talk about movies in the next slide.",
+            "code" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Movies",
+            "description" : "Based on the genre we can classify movies as below: <br/><br/><ol><li><b>Drama:</b> Classic, period TV series Peaky Blinders</li><li><b>Comedy: </b>Rowan Atkinson's Mr. Bean</li><li><b>Action/Adventure: </b>Action-filled Top Gun: Maveric</li><li><b>Science Fiction: </b>One of my favorites, Interstellar</li><li><b>Horror: </b>Well renowned, The Conjuring</li><li><b>Animation: </b>The kids' favorite, Kung fu panda</li><li>And a special category, <b>Wes Anderson Movies: </b>Just for his unique direction, The Grand Budapest Hotel</li></ol>",
+            "code" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Challenges in Movie industry",
+            "description" : "There are various challenges, from production to consumption, in the film industry. Below are a few challenges: <br/><br/><ol><li><b>Language Barrier</b>: Beautiful movies are produced every year across the globe, providing quality content. But due to the language barrier, movies fail to circulate around the world. Although most of the movies are dubbed in other languages, they lose their visual authenticity.</li><li><b>Deepfake Technology</b>: It has a lot of potential in movie creation and visual effects, but it also poses significant ethical concerns. It can be a potential threat to an actor's career.</li><li><b>Oversaturation</b>: Due to the abundance of content online, the material gets saturated. This leads to the development of certain movie types that are far from authentic and poetic naration.</li></ol>",
+            "code" : "",
+            "link" : ""
+        }
+    ]
+}
