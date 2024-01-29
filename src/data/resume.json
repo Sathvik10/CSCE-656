@@ -90,9 +90,10 @@
         }
     ],
     "Projects" : [
+
         {
             "name" : "List of Media",
-            "description" : "Here is my list of media I use.<br/><br/> <ol><li>I use <b>YouTube Shorts</b> a lot. I have ensured the algorithm gives content based on my interests. I spend quite some time on this platform</li><li>My go-to movie and TV show platform is <b>Netflix</b>. Although there haven't been any good movies in recent times, I tend to rewatch some of my favorite movies and TV shows in my free time. </li><li><b>Instagram</b> is the last one on my list. It's the only social media app I frequently use.</li></ol>",
+            "description" : "Here is my list of media I use. <br/><br/> <ol><li><b>Videos:</b> <ol><li>- I use YouTube, Netlfix and Peacock</li><li>- The shows I tend to watch are Friends, The Modern Family, The 70's Show and Games of Thrones.</li><li>- The movies I have loved so far are The Batman Trilogy, Inception, Interstellar, La La Land and Blade Runner 2049.</li><li>- I follow football and watch live matches of Manchester United.</li></ol></li><li><b>Social Media: </b> <ol><li>- Instagram</li></ol></li><li><b>Communication: </b> <ol><li>- WhatsApp, iMessage, Email</li></ol></li><li><b>Music: </b> <ol><li>- Spotify is the only app I use for Music</li></ol></li></ol>",
             "code" : "",
             "link" : ""
         },
@@ -117,6 +118,12 @@
         {
             "name" : "Challenges in Movie industry",
             "description" : "There are various challenges, from production to consumption, in the film industry. Below are a few challenges: <br/><br/><ol><li><b>Language Barrier</b>: Beautiful movies are produced every year across the globe, providing quality content. But due to the language barrier, movies fail to circulate around the world. Although most of the movies are dubbed in other languages, they lose their visual authenticity.</li><li><b>Deepfake Technology</b>: It has a lot of potential in movie creation and visual effects, but it also poses significant ethical concerns. It can be a potential threat to an actor's career.</li><li><b>Oversaturation</b>: Due to the abundance of content online, the material gets saturated. This leads to the development of certain movie types that are far from authentic and poetic naration.</li></ol>",
+            "code" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Challenges as Consumer Or Producer",
+            "description" : "Below are a few challenges: <br/><br/><ol><li>- With the increase in OTT platforms, the theater experience is lost, as more and more consumers tend to enjoy the movie from their home.</li><li>- Movies in the current generation prioritize quantity over quality. Certain elements are added to the movie to induce a spike in the audience, although they might not add meaning to the overall plot.</li><li>- As content producers, it is very hard to capture audience attention due to the influence of Instagram and TikTok.</li></ol>",
             "code" : "",
             "link" : ""
         }

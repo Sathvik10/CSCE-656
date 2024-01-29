@@ -3,7 +3,6 @@
 import React from 'react';
 import '../styling/About.css'; // Import a separate CSS file for styling
 import img from '../images/IMG_0091.jpeg'
-import aboutMe from '../data/data';
 
 
 const About = () => {
