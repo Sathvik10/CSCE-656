@@ -127,5 +127,31 @@
             "code" : "",
             "link" : ""
         }
+    ],
+    "CommonTheme" : [
+        {
+            "name" : "Common Themes",
+            "description" : "<b>1. Media Consumption </b><br/><br/> I noticed similarities among the media forms that students consume. A large number of students use similar applications, especially social media applications like Instagram. There is a general interest in video-based media consumption on YouTube, Instagram, and TikTok.",
+            "code" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Common Themes",
+            "description" : "<b>2. Games</b><br/><br/> It's been quite some time since I have spent an evening playing games. But I found a few students who have similar interests. Overcooked on Nintendo, absolute gem of a game to play with friends and the only  reason to pull an all-nighter on a weekday (<a href=\"https://sites.google.com/tamu.edu/psurbhi/home\">Prachi</a>). Call of duty and Valorant (<a href=\"https://shreyasskasetty-tamu.github.io/PersonalWebsite/\">Shreyas</a>, <a href=\"https://sites.google.com/tamu.edu/romey-media-journey/home\">Romey</a>)",
+            "code" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Common Themes",
+            "description" : "<b>3. Effects of media consumption</b> <br/><br/> Few students have expressed their discontent regarding social media platforms. The general essence revolves around the abundance of content and the usage of AI algorithms to grade the attention and time spent on these platforms. <a href=\"https://www.cs412rdhawan.xyz/newmedia.html\">Rohan</a> rightly expresses it as a rabbit hole. <a href=\"https://people.tamu.edu/~kdaoq2819/\">Khanh</a> mentions that our shortform videos have changed the influencer game on social media.",
+            "code" : "",
+            "link" : ""
+        },
+        {
+            "name" : "Revision",
+            "description" : "The spectrum of media classification and categorization on students webpages is huge. After going through these web pages, I feel I could have done a better job presenting various media forms. Another fact I noticed is that some challenges mentioned by students exhibit a completely different way of thinking. Thinking from this perspective would have helped me add a few more points to my first assignment.",
+            "code" : "",
+            "link" : ""
+        }
     ]
 }

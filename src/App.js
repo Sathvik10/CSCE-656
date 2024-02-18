@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import About from './components/About'
 import Home from './components/Home';
 import ProjectList from './components/Project';
+import CommonTheme from './components/CommonTheme';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Home />
       <About />
       <ProjectList />
+      <CommonTheme />
     </BrowserRouter>
   );
 }

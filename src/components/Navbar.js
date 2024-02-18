@@ -17,6 +17,9 @@ function Navbar() {
         <li className="nav-item">
           <a href={baseUrl + '/#HW1'}>HW1</a>
         </li>
+        <li className="nav-item">
+          <a href={baseUrl + '/#HW2'}>HW2</a>
+        </li>
       </ul>
     </nav>
   );
